@@ -1,0 +1,15 @@
+# ninja log v5
+2	495	6700962445452165	CMakeFiles/untitled6.dir/main.cpp.obj	ede249eef12349dc
+31	804	6700971527091347	build.ninja	880d67ae86599cc6
+495	703	6700962447482663	untitled6.exe	fdbd33f6e17fc2a
+22	751	6700961600156935	CMakeFiles/untitled6.dir/Time.cpp.obj	b1284cfa8e99781c
+16	418	6700962444601970	CMakeFiles/untitled6.dir/customer.cpp.obj	be80845ff6a8d4fd
+5	869	6700971917856903	CMakeFiles/untitled6.dir/customer.cpp.obj	bdc49afc3b136c15
+46	900	6700971918106963	CMakeFiles/untitled6.dir/Time.cpp.obj	fee513020521207a
+51	903	6700971918187534	CMakeFiles/untitled6.dir/teller.cpp.obj	bb0a2b5cb4dabc1e
+25	921	6700971918387012	CMakeFiles/untitled6.dir/main.cpp.obj	358f37b2446c0045
+39	945	6700971918607056	CMakeFiles/untitled6.dir/queue.cpp.obj	f17df047a1ca14e5
+31	951	6700971918677103	CMakeFiles/untitled6.dir/stack.cpp.obj	b764de5a0b65b577
+951	1262	6700971921637766	untitled6.exe	609e4e553b6ec52e
+5	633	6700973119254586	CMakeFiles/untitled6.dir/main.cpp.obj	358f37b2446c0045
+634	836	6700973121235033	untitled6.exe	609e4e553b6ec52e
